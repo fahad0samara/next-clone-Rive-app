@@ -3,6 +3,11 @@
 
 This project is a clone of the Rive app website built with Next.js. It aims to replicate the functionality and design of the Rive app website, showcasing interactive graphics and animations created with Rive.
 
+![Screenshot 2024-04-22 112511](https://github.com/fahad0samara/next-clone-Rive-app/assets/90055525/90fad6a7-bb78-4779-bd81-bcb961d287ac)
+
+
+
+
 ## Features
 
 - **Rive Editor Section:** Explore the powerful design tool that creates functional graphics.
